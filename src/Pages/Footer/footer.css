@@ -1,0 +1,26 @@
+/* Footer */
+.footer {
+    padding: 60px 0 30px 126px;
+    margin-top: 140px;
+  }
+  .footer-link p {
+    line-height: 24px;
+    align-items: center;
+    margin-left: 0px;
+    font-weight: 500;
+    margin-left: 6rem;
+  }
+  
+  /* .footer-link p {
+    text-decoration: none;
+    color: black;
+  }
+  
+  .footer-link p:hover {
+    color: black;
+    font-weight: 700;
+  } */
+  
+  .footer-img {
+    margin-right: 10px;
+  }
